@@ -1,0 +1,465 @@
+Kısa ve uzun kenarı girilen dikdörtgenin alanını ve çevresini
+hesaplayan programı Python dilinde kodlayınız.
+
+Yarıçapı verilen çemberin alanını hesaplayan programı Python
+dilinde kodlayınız. (pi = 3,14)
+
+Girilen gün sayısını kaç yıl ve kaç ay olduğunu bulan programı
+kodlayınız.
+
+100'lük sistemde notu girilen öğrencinin notunu 5'lik sisteme
+çeviriniz.
+
+Klavyeden girilen 3 basamaklı sayının basamak değerlerini yazdıran
+programın kodunuz yazınız.
+
+Bir ürünün alış fiyatı, vergi ve kâr oranlarını kullanılarak satış
+fiyatını hesaplayan programı kodlayınız.
+
+Kullanıcının girdiği bir sayının hem 2'ye hemde 3'e bölünebilme
+durumunu kontrol eden programı kodlayınız.
+
+Bir kredi kartından 2000 TL üzeri alış veriş yapıldığında 100 TL
+hediye puan, 1000 TL ve üzeri alış veriş yapıldığında 50 TL
+hediye puan, 1000 TL’nin altında alış veriş yapıldığında 10 TL
+hediye puan kazanılmaktadır. Klavyeden girilen harcama tutarına
+göre hediye puanı yazan problemin Python kodlarını yazınız
+
+Bir internet satış sitesi alışveriş tutarı 50 TL’nin üzerindeki her
+kargoyu bedava veriyor. 50 TL altı sipariş tutarına ise 7 TL ilave
+edilerek, ekrana kargo ücretini ve toplam tutarı yazdırıyor. Bu
+programın Python kodunu oluşturunuz.
+
+Bir kişiye ait cinsiyet, boy ve kilo bilgilerini alarak aşağıdaki şartlara göre
+kişinin ideal kiloda olup olmadığını, ideal kiloda değilse kaç kilo alması
+veya kaç kilo vermesi gerektiğini bulan Python kodunu oluşturunuz.
+İdeal Kilo Hesabı: Bayanlarda: Boy-110, Erkeklerde: Boy-108
+
+Kullanıcıya Python ya da Java programlama dillerini ve İngilizce dilini
+bilip bilmediğini soran, Python ya da Javadan birini biliyorsa ve
+İngilizce dilini biliyorsa “İş alım süreciniz olumlu geçti”, değilse
+“Aranan pozisyona nitelikleriniz uymamaktadır.” mesajı veren
+Python kodunu oluşturunuz.
+
+Bir mağaza müşterilerine yaptıkları alışveriş tutarına göre indirim
+yapmaktadır. 200 TL ye kadar olan alışverişler için %10, 200-400 TL
+arası olan alışverişler için %15, 400 TL den fazla olan alışverişler için
+%20 olacak şekilde indirim yapıp alışveriş tutarını yazan Python kodunu
+oluşturunuz.
+
+Klavyeden, girilen ay bilgisine göre kuzey yarım kürede hangi
+mevsimin yaşandığını ekrana yazdıran Python kodunu oluşturunuz.
+
+Kullanıcının girdiği üç sayı arasındaki en küçük çift sayıyı bulun veya
+eğer hiç çift sayı yoksa bir mesaj yazdırın.
+
+Girilen iki sayıyı toplayıp sonucunu ekrana yazdıran program?
+
+V=I*R formülünü kullanarak verilen I ve R değerine göre V yi hesaplayan prog?
+
+Kısa ve uzun kenarı girilen dikdörtgenin alanını ve çevresini  hesaplayan prog?
+
+Yarıçapı verilen çemberin alanını hesaplayan prog (pi = 3,14)?
+
+Girilen gün sayısını kaç yıl ve kaç ay olduğunu bulan program?
+
+Girilen 3 basamaklı bir sayıyı tersine çeviren program? (573 ==> 375)
+
+100'lük sistemde notu girilen öğrencinin notunu 5'lik sisteme çeviriniz?
+
+Fiyat ve kdv oranı girilen ürünün toplam fiyatını ekrana yazdıran program?
+
+Bir ürünün alış fiyatı, vergi ve kar oranlarını kullanılarak satış fiyatını hesaplayan program?
+
+Klavyeden girilen 3 basamaklı sayının basamak değerlerini yazdıran program?
+
+A ve B değişken değerlerini üçüncü bir değişken kullanmadan yer değiştiriniz?
+
+Girilen n ve k değerlerine göre k + 2k + 3k + ...+nk yı hesaplayan program?    
+
+Çizginin başlangıç ve orta nokta koordinatları veriliyor. Diğer uç noktanın koordinatlarını bulunuz?
+
+Girilen sayının pozitif ya da negatif olduğunu ekrana yazınız?
+
+*Girilen tamsayının sıfır, pozitif ya da negatif olup olmadığını bulan program?
+
+Vize ve Final notu girilen öğrencinin geçip geçmediğini hesaplayan program (vizenin %40,finalin %60’ı hesaplanır. Final en az 60 olmak zorundadır)
+
+Kullanıcının girdiği üç sayıdan büyük olanını yazdıran program? 
+
+Girilen sayının 6'nın katı olduğunu bulan program?
+
+Yüzlük notu harf notuna çeviriniz?
+
+İşçi maaşı ve çocuk sayısı verilmektedir. Çocuk sayısı bir ise %5, iki ise %10, üç veya daha fazla ise %15 zam yaparak yeni maaşı hesaplayınız?
+
+Ekrana 1:Toplama, 2:Çıkarma,..yaz. Sonra kullanıcıdan iki sayı alıp işlemi seçerek sonucu ekranda yazan program?
+
+Çizgi daireyi kesiyor mu, yoksa teğet mi sonucunu bulan program? 
+Çizgi: ax+by+c=0 
+Daire: (dx,dy,r) 
+
+A(x1,y2), B(x2,y2), C(x3,y3) üçgene ait üç nokta olduğuna göre P(xp,yp) üçgenin içinde mi dışında mı bulan program?
+
+
+1 den 100 e kadar olan sayılardan aynı anda 3 ve 5 e tam bölünen
+sayıları alt alta yazdıran python kodunu yazınız.
+
+20'ye kadar olan sayıları, 10'dan küçük ve 10'dan büyük şeklinde
+listeleyecek Python kodu nasıl olmalıdır?
+
+Kullanıcının girdiği parolada Türkçe karakterlerin olmaması
+gerekmektedir. Buna göre kullanıcının girdiği parolada Türkçe
+karakter varsa “Parolada Türkçe karakter kullanılamaz.”
+Türkçe karakter yoksa “Parolanız oluşturulmuştur.” ekrana
+yazdırınız.
+
+Bir while döngüsü kullanarak kullanıcının tahmin etmesi için
+rastgele bir sayı oyunu oluşturan programı kodlayınız.
+
+*Kullanıcıdan alınan 5 sayı içerisinden for döngüsü kullanarak en
+küçük sayıyı bulan programı kodlayınız.
+
+*Bir for döngüsü kullanarak Fibonacci dizisinin ilk 20 terimini
+hesaplayan bir Python programı nasıl yazılır?
+
+*1 den 10′ a kadar sayıları tersten yani 10′ dan geriye yazdırın.
+
+*1 den 10′ a kadar sayıları tersten yani 10′ dan geriye yazdırın.
+Element      Value
+    0           2
+    1           4
+    2           6
+    3           8
+    4          10
+    5          12
+    6          14
+    7          16
+    8          18
+    9          20
+
+*Girilen 5 sayının ortalamasını bulan program?
+
+*Girilen 5 sayı içerisindeki minimum ve maksimum değerleri bulan program?
+
+*N’e kadar tek sayıları yazdıran program?
+
+*Girilen sayının tam bölenlerini bulan program?
+
+*a^b yi açık hesaplayan program?
+
+*n’e kadar ki tek sayıların toplamı, çift sayıların çarpımını hesaplayan program?
+
+*Girilen sayının faktöriyelini hesaplayan program?
+
+*Girilen n değerine göre Fibonacci serisinin 
+
+*( 0 1 1 2 3 5 8 … ) ilk n terimini hesaplayınız?
+
+*Girilen n adet sayı içerisinden pozitif, negatif ve sıfır sayısının kaçar adet tekrarlandığını bulan program?
+
+*Serinin ilk elemanı, toplam eleman sayısını ve artış değeri girildiğinde seri sonucunu hesaplayan program?
+ 
+*f(x) = x^2 - 2x - 3  fonksiyonunun x eksenini kestiği nokta sayısını bulunuz? 
+
+*Girilen bir sayının asal olup olmadığını bulunuz?
+
+*Girilen bir sayının asal çarpanlarını bulan program?
+
+*Girilen sayının basamak değerleri çarpımını bulunuz?
+
+*Girilen sayının basamak değerlerinde k rakamı olmayanları listeleyen program?
+
+*Girilen sayının basamak sayısını ekrana yazdıran program?
+
+*TC kimlik noyu doğru girmeye zorlayınız? (11 karakter ve tamamı sayı)
+
+*Girilen cümleyi tersten yazdırın? 
+
+*Girilen cümledeki sesli ve sessiz harf sayısını bulun?
+
+*Girilen cümledeki harflerin adetlerini ekrana yazın?
+
+*Girilen iki sayının OKEK (ortak katların en küçüğü) hesaplayan program?
+
+*Girilen iki sayının OBEB (ortak bölenlerin en büyüğü) hesaplayan program?
+
+*Sayı tahmin oyunu
+
+*Harf tahmin oyunu
+
+*Bir top X metre yükseklikten bırakılıyor. Her sıçrayışta  önceki yüksekliğini %20 kaybediyor. 
+1 metreden daha az olana kadar aldığı toplam yolu ve sıçrama sayısını hesaplayınız?
+
+*Klavyeden 3 adet kenar uzunluğu giriliyor. Girilen kenar uzunlukları göz önüne alındığında üçgenin çizilip çizilemeyeceğini, 
+çizilebilir ise türünü (ikizkenar, çeşitkenar, eşkenar), alanını ve çevresini hesaplayan program?
+
+*Girilen sayının Pronic (ardışık iki sayının çarpımına eşit) olup olmadığını bulunuz?
+
+*N’e kadar ki Harshad (sayının kendisi rakamları toplamına bölünüyor) olanları listele? 
+
+*Girilen sayının Jumbled (komşu rakamlar arasındaki fark maksimum 1) olup olmadığını bulunuz? 
+
+*Kullanıcıdan alınan 5 sayı içerisinden for döngüsü
+kullanarak en küçük sayıyı bulan programı kodlayınız.
+
+*1 den 10′ a kadar sayıları tersten yani 10′ dan
+geriye yazdırın.
+
+*Kullanıcıdan isim ve soyisim bilgisini alan ve bunların harf
+uzunluğunu bulan programı yazınız. (Kullanıcıdan aldığınız
+değerleri bir diziye atayarak yapınız.)
+
+*edges = [(3, 4, 5), (5, 12, 13), (2, 15, 17), (5, 5, 5), (5, 5, 8), (1, 24, 25)]
+
+Bu listedeki üç sayıdan oluşan demetlerin (tuple) her birinin bir üçgen olup
+olmadığını ve hangi üçgen tipi olduğunu kontrol eden programı yazınız.
+
+*kullanıcıdan öğrenci adını ve üç sınav notunu girmesini isteyin.
+Kullanıcı 'q' tuşuna basana kadar bu işlemi tekrarlansın. Ardından,
+öğrenci not bilgilerini ekrana yazdırın, her öğrencinin adını,
+notlarını ve ortalama notunu gösteren programı yazınız.
+
+*Girilen 5 sayının ortalamasını bulan program?
+
+*Girilen 5 sayının standart sapmasını bulan program?
+
+*Girilen sayının listede olup olmadığını bulan program?
+
+*Farklı değerlere sahip iki listenin korelasyon katsayısını hesaplayan program?
+
+*Elemanları sıralayan program?
+
+*Her elemanın tekrar sayısını bulan program?
+
+
+
+STRİNG PROBLEMLERİ
+
+*Girilen yazıdaki boşluk karakter sayısını bulan program?
+
+*Girilen iki yazıyı karşılaştıran (eşit olup olmadığını bulan) program?
+
+*Girilen yazının büyük yazılıp yazılmadığını bulan program?
+
+*Girilen yazının k. karakteriyle r. karakteri arasını kopyalayan programı yazınız?
+
+*Girilen yazıdaki kelime, rakam ve karakter sayısını bulan prog<<<ram?
+
+*Girilen yazıdaki aranan kelimenin önüne ve arkasına TIRNAK sembolünü ekleyen program?
+
+*Girilen yazıdaki bir karakteri sil
+
+*Girilen yazıdaki bir kelimeyi sil
+
+*Girilen yazıdaki noktalama işaretlerini sil
+
+*Girilen onluk sayıyı ikili sayıya dönüştürünüz?
+
+*Girilen onluk sayıyı onaltılık sayıya dönüştürünüz?
+
+*Girilen ikilik sayıyı onluk sayıya dönüştürünüz?
+
+*Aşağıdaki çıktıyı veren programı yazınız?
+
+0! = 1
+1! = 1
+2! = 2
+3! = 6
+4! = 24
+5! = 120
+6! = 720
+7! = 5040
+8! = 40320
+9! = 362880
+
+
+*İlk N asal sayısını listeleyen program?
+
+*Girilen sayının kaç faktöriyel olduğunu bulunuz (720=6!)
+
+*Listede en fazla tekrar eden elemanı silen program?
+
+* e^x = 1 + x + (x^2 / 2!) + (x^3 / 3!) + ... + (x^10 / 10!)
+
+*Girilen sayının Güçlü (1! + 4! + 5!  = 1 + 24 + 120 = 145) olup olmadığını bulan program?
+
+*PASCAL üçgeninin n. satırını üretiniz?
+
+C = n! / (n - r)!*r  ; n: satır  r: sütun
+
+
+*n satırlı PASCAL üçgenini çıktı veren programı yazınız?
+
+       1
+      1 1
+     1 2 1
+    1 3 3 1
+   1 4 6 4 1
+
+*İki matrisin toplamını bul.
+
+*Matrisin satır ve sütun toplamlarını hesapla.
+
+*Matristeki en büyük sayıyı bul.
+
+*Matris izini (diyagonal toplam) bul.
+
+*Verilen sayıyı matrisin k. indeksine yerleştir?
+
+*Matrisin transpozunu alın.
+
+*İki matrisin çarpımını hesaplayan prog?
+
+*Girilen N değerine göre NxN boyutlu bir matrisin hücrelerine 1 den NxN'e kadar sayıları yerleştir.
+
+*0-1 değerlerini içeren bir matristeki nesnenin alanını hesapla.
+
+*0-1 değerlerini içeren bir matristeki nesnenin kenarlarını hesapla.
+
+*Matristeki şekli n kat büyüten programı yazınız?
+
+
+#### DÖNGÜSEL İŞLEMLER  ####
+
+*Çıktıyı  oluşturan kodu siz yazın.
+
+lütfen tablonun ölçülerini giriniz: 10
+
+     1   2   3   4   5   6   7   8   9   10
+   + _______________________________________
+1  | 1   2   3   4   5   6   7   8   9   10
+2  | 2   4   6   8   10  12  14  16  18  20
+3  | 3   6   9   12  15  18  21  24  27  30
+4  | 4   8   12  16  20  24  28  32  36  40
+5  | 5   10  15  20  25  30  35  40  45  50
+6  | 6   12  18  24  30  36  42  48  54  60
+7  | 7   14  21  28  35  42  49  56  63  70
+8  | 8   16  24  32  40  48  56  64  72  80
+9  | 9   18  27  36  45  54  63  72  81  90
+10 | 10  20  30  40  50  60  70  80  90  100
+
+
+
+# ekrana yazdıra kodu yazınız
+--
+**********
+
+**********
+
+**********
+
+**********
+
+**********
+
+**********
+
+**********
+
+**********
+
+**********
+
+**********
+
+
+
+--
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
+
+
+--
+1
+12 
+123 
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678910
+
+
+--
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
+10101010101010101010
+
+
+--
+999999999
+88888888
+7777777
+666666
+55555
+4444
+333
+22
+1
+1
+22
+333
+4444
+55555
+666666
+7777777
+88888888
+999999999
+
+--
+1 
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+16 17 18 19 20 21
+22 23 24 25 26 27 28
+29 30 31 32 33 34 35 36
+37 38 39 40 41 42 43 44 45
+46 47 48 49 50 51 52 53 54 55
+
+
+
+--
+1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20
+21 22 23 24 25 26 27 28 29 30
+31 32 33 34 35 36 37 38 39 40
+41 42 43 44 45 46 47 48 49 50
+51 52 53 54 55 56 57 58 59 60
+61 62 63 64 65 66 67 68 69 70
+71 72 73 74 75 76 77 78 79 80
+81 82 83 84 85 86 87 88 89 90
+91 92 93 94 95 96 97 98 99 100
+
+--  
+
+         *
+        * *
+       *   * 
+      *     *
+     *       *
+    *         *
+   *           *
+  *             *
+ *               *
+*                 *
+

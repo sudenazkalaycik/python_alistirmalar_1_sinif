@@ -1,0 +1,93 @@
+N bir kare(Min 2x2), M bir kare olmayan(Min 2x3 ya da 3x2) matrix olmak üzere,
+N matrixi oluşturun ve yazdırın
+M matrixi oluşturun ve yazdırın
+M matrixin elemanlarını ayrı bir şekilde yazdırın
+M matrixi oluşturun ve kullanıcıdan girilen 2 sayı ile M matrix indexlerinin içeriğini değiştirin
+M random matrix i oluşturun ve yazdırın
+M random matrixinizi yazdırın ve 4 ekleyin ve yazdırın (ex: [1 2] --> [5,6])
+M random matrixinizi yazdırın ve 5 ile çarpın ve yazdırın (ex: [1 2] --> [5,10])
+5-N 1lerden oluşan bir matrix oluşturun orta kısımı(3N) 0 a çevirin
+2 tane N random matrixi oluşturun ve toplayın sonucu yazdırın
+N matrixi oluşturun transpose'unu alın sonucu yazdırın
+M matrixi oluşturun transpose'unu alın sonucu yazdırın
+2 tane N random matrixi oluşturun ve bunları çarpın sonucu yazdırın
+2 tane M random matrixi oluşturun ve toplayın sonucu yazdırın
+2 tane M random matrix çarpın sonucu yazdırın
+2x2 bir matrixin determinantını 
+
+
+
+1. Soru:
+Verilen iki matrisin toplamını bulan bir Python fonksiyonu yazın.
+
+2. Soru:
+Verilen iki matrisin farkını bulan bir Python fonksiyonu yazın.
+
+3. Soru:
+Bir matrisin transpozunu alacak bir Python fonksiyonu yazın.
+
+4. Soru:
+Bir matrisin determinantını hesaplayacak bir Python fonksiyonu yazın.
+
+5. Soru:
+Bir matrisin izini (trace) hesaplayacak bir Python fonksiyonu yazın.
+
+6. Soru:
+Bir matrisin tersini bulan bir Python fonksiyonu yazın.
+
+7. Soru:
+Bir matrisin köşegen elemanlarını bulan bir Python fonksiyonu yazın.
+
+8. Soru:
+Verilen bir matrisin satır ve sütunlarını yer değiştiren bir Python fonksiyonu yazın.
+
+9. Soru:
+İki matrisi çarpan bir Python fonksiyonu yazın.
+
+10. Soru:
+Verilen bir matrisin her elemanını 3 ile çarpan bir Python fonksiyonu yazın.
+
+11. Soru:
+Bir matrisin sadece çift satır ve tek sütun elemanlarından oluşan alt matrisini bulan bir Python fonksiyonu yazın.
+
+12. Soru:
+Bir matrisin her satırındaki en büyük elemanı bulan bir Python fonksiyonu yazın.
+
+13. Soru:
+Bir matrisin her sütunundaki en küçük elemanı bulan bir Python fonksiyonu yazın.
+
+14. Soru:
+Bir matrisin simetrik olup olmadığını kontrol eden bir Python fonksiyonu yazın.
+
+15. Soru:
+Verilen bir matrisin her satırındaki elemanları toplamını bulan bir Python fonksiyonu yazın.
+
+16. Soru:
+Verilen bir matrisin sırasıyla her iki elemanını yer değiştiren bir Python fonksiyonu yazın.
+
+17. Soru:
+İki matrisin eşit olup olmadığını kontrol eden bir Python fonksiyonu yazın.
+
+18. Soru:
+Bir matrisin her elemanının karesini bulan bir Python fonksiyonu yazın.
+
+19. Soru:
+Bir matrisin her elemanını -1 ile çarpan bir Python fonksiyonu yazın.
+
+20. Soru:
+Verilen bir matrisin her satırının ortalamasını bulan bir Python fonksiyonu yazın.
+
+21. Soru:
+Verilen bir matrisin determinantının negatifini bulan bir Python fonksiyonu yazın.
+
+22. Soru:
+Bir matrisin her elemanını 2 ile bölen ve tam sayıya yuvarlayan bir Python fonksiyonu yazın.
+
+23. Soru:
+İki matrisin elemanlarını sırasıyla toplayan bir Python fonksiyonu yazın.
+
+24. Soru:
+Verilen bir matrisin her elemanının karesi, kökü veya üssünü hesaplayan bir Python fonksiyonu yazın.
+
+25. Soru:
+Bir matrisin her elemanını, o elemanın sütunundaki en büyük elemana bölerek normalleştiren bir Python fonksiyonu yazın.

@@ -1,0 +1,28 @@
+N, kullanıcının girdiği bilgidir.
+*Ekrana Hello, World! yazan program
+*Girilen iki sayının toplamını veren program
+*N sayısına kadar olan sayıların toplamını veren program
+*Yarıçapı dışarıdan verilen dairenin çevresini ve alanını bulan program
+*N tam sayısına kadar olan tek ve çift sayıların toplamını veren program
+*N sayısına kadar olan sayıların karelerinin toplamını bulan program
+*Dışarıdan girilen 3 sayının en büyüğünü bulan program
+*N kez dışarıdan sayı alıp aldığı sayıların en büyüğünü bulan program
+*Girilen N tane sayının aritmetik ortalamasını bulan program
+*Çarpma işlemi kullanmadan iki sayının çarpımını bulan program
+*Girilen N sayısının rakamlarının toplamını bulan program
+*Yıldızlardan N yüksekliğinde dik üçgen yazdıran program
+*Fibonacci ilk 20 değeri yazdıran program
+*Fonksiyon ile Hello, World! yazdıran program
+*Faktöriyel hesabı yapan program
+*Kullanıcı -1 girene kadar girilen sayıların ortalamasını bulan program
+*Girilen N sayısının asal olup olmadığını bulan program
+*2 kenarı verilen dik üçgenin 3. kenarını bulan program
+*Basit hesap makinası programı
+*Basit hesap makinası ama işlemleri yaptırmak için fonksiyon kullanılacak
+*Girilen vize ve final notlarına göre öğrencinin dersten geçip geçmediğini bulan program
+*Girilen metindeki harflerin ASCII değerini yazdıran program
+*Girilen metindeki harflerin ASCII değerlerine bakarak eğer küçük harfle yazıldıysa büyük hale dönüştüren program
+*Girilen metinin tersini yazdıran program
+*10'luk tabanda girilen sayının 16'lık ve 2'lik tabanda değerini yazan program
+
+Not: çözerken herhangi bir kütüphane kullanılmayacak.
